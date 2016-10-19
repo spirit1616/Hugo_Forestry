@@ -11,10 +11,13 @@
     <item>
       <title>Test</title>
       <link>https://example.org/post/my-first-post/</link>
-      <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
+      <pubDate>Sat, 10 Oct 2015 13:07:00 +0000</pubDate>
       
       <guid>https://example.org/post/my-first-post/</guid>
-      <description>&lt;p&gt;This is my first post&lt;/p&gt;
+      <description>&lt;p&gt;This is my first post
+ABc Abc&lt;/p&gt;
+
+&lt;p&gt;Lorem Lorem&lt;/p&gt;
 </description>
     </item>
     

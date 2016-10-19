@@ -6,8 +6,21 @@
     <description>Recent content on Strata</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Oct 2015 13:07:31 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2015 13:07:00 +0000</lastBuildDate>
     <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Test</title>
+      <link>https://example.org/post/my-first-post/</link>
+      <pubDate>Sat, 10 Oct 2015 13:07:00 +0000</pubDate>
+      
+      <guid>https://example.org/post/my-first-post/</guid>
+      <description>&lt;p&gt;This is my first post
+ABc Abc&lt;/p&gt;
+
+&lt;p&gt;Lorem Lorem&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Migrate from Jekyll</title>
@@ -183,16 +196,6 @@ Liquid::Template.register_tag(&#39;image&#39;, Jekyll::ImageTag)
 &lt;h2 id=&#34;a-practical-example-in-a-diff&#34;&gt;A practical example in a diff&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://heyitsalex.net/&#34;&gt;Hey, it&amp;rsquo;s Alex&lt;/a&gt; was migrated in less than a &lt;em&gt;father-with-kids day&lt;/em&gt; from Jekyll to Hugo. You can see all the changes (and screw-ups) by looking at this &lt;a href=&#34;https://github.com/alexandre-normand/alexandre-normand/compare/869d69435bd2665c3fbf5b5c78d4c22759d7613a...b7f6605b1265e83b4b81495423294208cc74d610&#34;&gt;diff&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Test</title>
-      <link>https://example.org/post/my-first-post/</link>
-      <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
-      
-      <guid>https://example.org/post/my-first-post/</guid>
-      <description>&lt;p&gt;This is my first post&lt;/p&gt;
 </description>
     </item>
     
